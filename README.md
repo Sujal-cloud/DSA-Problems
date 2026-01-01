@@ -19,6 +19,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -28,4 +29,8 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0217-contains-duplicate) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
