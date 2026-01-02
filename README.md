@@ -12,6 +12,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | ------- |
 | [0066-plus-one](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Hash Table
@@ -39,6 +41,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | ------- |
 | [0066-plus-one](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
