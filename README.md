@@ -8,6 +8,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0061-rotate-list) |
+| [0725-split-linked-list-in-parts](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
