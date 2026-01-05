@@ -17,6 +17,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0075-sort-colors](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0876-middle-of-the-linked-list) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Recursion
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1390-four-divisors) |
 | [1975-maximum-matrix-sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1975-maximum-matrix-sum) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0067-add-binary) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
