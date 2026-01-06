@@ -40,6 +40,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1390-four-divisors](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1390-four-divisors) |
 | [1975-maximum-matrix-sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0189-rotate-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0268-missing-number) |
 | [1390-four-divisors](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1390-four-divisors) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## String
 |  |
