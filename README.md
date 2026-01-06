@@ -17,6 +17,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0075-sort-colors](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Recursion
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0219-contains-duplicate-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0485-max-consecutive-ones) |
+| [0905-sort-array-by-parity](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0905-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1390-four-divisors) |
 | [1975-maximum-matrix-sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1975-maximum-matrix-sum) |
@@ -58,6 +60,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0169-majority-element](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0268-missing-number) |
+| [0905-sort-array-by-parity](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0905-sort-array-by-parity) |
 ## Math
 |  |
 | ------- |
