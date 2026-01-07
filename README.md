@@ -28,6 +28,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -68,6 +69,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0189-rotate-array) |
@@ -108,6 +110,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0048-rotate-image) |
 | [1975-maximum-matrix-sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1975-maximum-matrix-sum) |
 ## Divide and Conquer
 |  |
