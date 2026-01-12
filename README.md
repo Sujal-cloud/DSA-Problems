@@ -32,6 +32,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0066-plus-one](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0152-maximum-product-subarray) |
@@ -121,6 +122,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
