@@ -17,6 +17,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0061-rotate-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0189-rotate-array) |
+| [0567-permutation-in-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -70,6 +71,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0242-valid-anagram](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0383-ransom-note) |
+| [0567-permutation-in-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0567-permutation-in-string) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
@@ -107,6 +109,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0067-add-binary](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0383-ransom-note) |
+| [0567-permutation-in-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0567-permutation-in-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Bit Manipulation
 |  |
@@ -160,6 +163,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0567-permutation-in-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 ## Tree
 |  |
