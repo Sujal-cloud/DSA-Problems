@@ -59,6 +59,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [2956-find-common-elements-between-two-arrays](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3453-separate-squares-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3453-separate-squares-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0268-missing-number) |
+| [3453-separate-squares-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3453-separate-squares-i) |
 ## Dynamic Programming
 |  |
 | ------- |
