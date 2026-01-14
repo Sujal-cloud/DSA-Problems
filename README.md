@@ -61,6 +61,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3453-separate-squares-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3454-separate-squares-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0268-missing-number) |
 | [3453-separate-squares-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3454-separate-squares-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -208,4 +210,12 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1266-minimum-time-visiting-all-points) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
