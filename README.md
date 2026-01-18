@@ -122,6 +122,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0844-backspace-string-compare](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Bit Manipulation
@@ -218,6 +219,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0085-maximal-rectangle](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0844-backspace-string-compare](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
