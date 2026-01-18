@@ -121,6 +121,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0567-permutation-in-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0567-permutation-in-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0844-backspace-string-compare](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bit Manipulation
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1975-maximum-matrix-sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1975-maximum-matrix-sum) |
 ## Matrix
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0020-valid-parentheses](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0844-backspace-string-compare](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
