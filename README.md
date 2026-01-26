@@ -16,6 +16,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0189-rotate-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0066-plus-one) |
@@ -175,6 +177,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -249,6 +252,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0155-min-stack) |
@@ -262,6 +266,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0496-next-greater-element-i) |
