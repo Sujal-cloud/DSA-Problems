@@ -56,6 +56,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0485-max-consecutive-ones](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0735-asteroid-collision) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0860-lemonade-change](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
@@ -180,6 +181,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0268-missing-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3453-separate-squares-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3454-separate-squares-ii) |
