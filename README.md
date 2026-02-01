@@ -80,6 +80,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -125,6 +126,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Math
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Stack
 |  |
 | ------- |
