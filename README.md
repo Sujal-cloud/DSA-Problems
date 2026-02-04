@@ -8,6 +8,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0061-rotate-list) |
+| [0622-design-circular-queue](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0622-design-circular-queue) |
 | [0725-split-linked-list-in-parts](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -55,6 +56,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0268-missing-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0496-next-greater-element-i) |
+| [0622-design-circular-queue](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0860-lemonade-change](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0860-lemonade-change) |
@@ -331,11 +333,13 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 ## Queue
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0622-design-circular-queue) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0622-design-circular-queue) |
 ## Graph Theory
 |  |
 | ------- |
