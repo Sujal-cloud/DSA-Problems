@@ -277,6 +277,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0084-largest-rectangle-in-histogram](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0844-backspace-string-compare) |
@@ -333,12 +334,14 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0622-design-circular-queue) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0622-design-circular-queue) |
 ## Graph Theory
 |  |
