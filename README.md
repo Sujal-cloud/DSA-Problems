@@ -89,6 +89,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3379-transformed-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -182,6 +183,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0844-backspace-string-compare](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0844-backspace-string-compare) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3379-transformed-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Binary Search
