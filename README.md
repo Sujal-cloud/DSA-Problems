@@ -138,6 +138,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0067-add-binary) |
