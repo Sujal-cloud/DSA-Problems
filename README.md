@@ -20,6 +20,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0042-trapping-rain-water](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0567-permutation-in-string) |
@@ -49,6 +50,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0136-single-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0217-contains-duplicate) |
@@ -205,6 +207,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0268-missing-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
