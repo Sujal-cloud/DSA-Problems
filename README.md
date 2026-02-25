@@ -78,6 +78,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1200-minimum-absolute-difference](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -150,6 +151,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0905-sort-array-by-parity](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -200,6 +202,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0190-reverse-bits](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -269,6 +272,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0229-majority-element-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0383-ransom-note) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3713-longest-balanced-substring-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
