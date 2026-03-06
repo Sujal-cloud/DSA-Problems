@@ -10,6 +10,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0061-rotate-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0622-design-circular-queue](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0622-design-circular-queue) |
 | [0725-split-linked-list-in-parts](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0876-middle-of-the-linked-list) |
@@ -26,6 +27,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0061-rotate-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0283-move-zeroes) |
@@ -123,6 +125,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
