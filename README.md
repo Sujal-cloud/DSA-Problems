@@ -102,6 +102,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2404-most-frequent-even-element](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2404-most-frequent-even-element) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -147,6 +148,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0992-subarrays-with-k-different-integers](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2404-most-frequent-even-element](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2404-most-frequent-even-element) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -303,6 +305,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0992-subarrays-with-k-different-integers](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2351-first-letter-to-appear-twice) |
+| [2404-most-frequent-even-element](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2404-most-frequent-even-element) |
 | [3713-longest-balanced-substring-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
 |  |
