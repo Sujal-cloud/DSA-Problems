@@ -1,11 +1,13 @@
 class Solution {
     public boolean checkIfPangram(String sentence) {
-
-        Map<Character, Integer> map = new HashMap<>();
-
-        for(char ch : sentence.toCharArray()) {
-            map.put(ch, 1);
+        String a="abcdefghijklmnopqrstuvwxyz";
+        for(int i=0;i<a.length();i++)
+        {
+        if(!sentence.contains(a.charAt(i) + ""))
+        {
+            return false;
         }
-        return map.size() == 26;
+        }
+        return true;
     }
 }
