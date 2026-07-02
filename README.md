@@ -139,6 +139,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0242-valid-anagram](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0383-ransom-note) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0567-permutation-in-string) |
@@ -210,6 +211,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0125-valid-palindrome](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0383-ransom-note) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0567-permutation-in-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -314,6 +316,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0713-subarray-product-less-than-k) |
