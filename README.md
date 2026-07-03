@@ -46,6 +46,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0050-powx-n) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Array
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | ------- |
 | [0009-palindrome-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0189-rotate-array) |
