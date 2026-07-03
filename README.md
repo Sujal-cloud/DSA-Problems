@@ -97,6 +97,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1528-shuffle-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1528-shuffle-string) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1895-largest-magic-square) |
@@ -150,6 +151,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -226,6 +228,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1528-shuffle-string) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -241,6 +244,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0268-missing-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -314,6 +318,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0451-sort-characters-by-frequency](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2404-most-frequent-even-element) |
 | [3713-longest-balanced-substring-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3713-longest-balanced-substring-i) |
