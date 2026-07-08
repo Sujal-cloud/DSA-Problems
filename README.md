@@ -235,6 +235,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1108-defanging-an-ip-address](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1108-defanging-an-ip-address) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1528-shuffle-string) |
