@@ -204,6 +204,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0189-rotate-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0415-add-strings) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1390-four-divisors) |
@@ -227,6 +228,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0205-isomorphic-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0383-ransom-note) |
+| [0415-add-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -266,6 +268,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0844-backspace-string-compare) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
