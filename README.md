@@ -20,6 +20,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0018-4sum) |
@@ -218,6 +219,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0049-group-anagrams) |
@@ -291,6 +293,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0118-pascals-triangle) |
