@@ -437,6 +437,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
