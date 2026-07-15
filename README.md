@@ -212,6 +212,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0067-add-binary](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0415-add-strings) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
