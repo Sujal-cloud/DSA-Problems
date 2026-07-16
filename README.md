@@ -44,6 +44,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0977-squares-of-a-sorted-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [3640-trionic-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3640-trionic-array-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3721-longest-balanced-subarray-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -228,6 +231,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -298,6 +302,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3813-vowel-consonant-score](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3813-vowel-consonant-score) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -572,4 +577,5 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [2523-closest-prime-numbers-in-range](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2523-closest-prime-numbers-in-range) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
