@@ -77,6 +77,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0169-majority-element](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0229-majority-element-ii) |
@@ -570,6 +571,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0039-combination-sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0216-combination-sum-iii) |
 ## Number Theory
 |  |
 | ------- |
