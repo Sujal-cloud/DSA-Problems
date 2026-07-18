@@ -111,6 +111,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1975-maximum-matrix-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -225,6 +226,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1266-minimum-time-visiting-all-points](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1390-four-divisors) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2523-closest-prime-numbers-in-range) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -581,6 +583,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2523-closest-prime-numbers-in-range) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
