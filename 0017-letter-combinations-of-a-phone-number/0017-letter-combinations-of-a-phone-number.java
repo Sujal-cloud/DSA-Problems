@@ -1,31 +1,28 @@
 class Solution {
-    static void solve(String digits, int idx, StringBuilder out, List<String> ans, String[] mapping) {
+    static void solve(String digits, int idx, StringBuilder output, List<String> res, String[] mapping) {
         if(idx >= digits.length()) {
-            ans.add(out.toString());
+            res.add(output.toString());
             return;
         }
-
-        //curr val
         int val = digits.charAt(idx) - '0';
-        //find mapped string to that val
         String mappedStr = mapping[val];
 
         for(int i=0; i<mappedStr.length(); i++) {
-            out.append(mappedStr.charAt(i));
-            solve(digits, idx+1, out, ans, mapping);
+            output.append(mappedStr.charAt(i));
+            solve(digits, idx+1, output, res, mapping);
 
-            out.deleteCharAt(out.length() - 1);
+            //backtracking
+            output.deleteCharAt(output.length() - 1);
         }
-
     }
     public List<String> letterCombinations(String digits) {
         String[] mapping = {"", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
 
-        List<String> ans = new ArrayList<>();
-        StringBuilder out = new StringBuilder();
-
+        List<String> res = new ArrayList<>();
+        StringBuilder output = new StringBuilder();
         int idx = 0;
-        solve(digits, idx, out, ans, mapping);
-        return ans;
+
+        solve(digits, idx, output, res, mapping);
+        return res;
     }
 }
