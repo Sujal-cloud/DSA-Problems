@@ -58,6 +58,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0016-3sum-closest](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0042-trapping-rain-water) |
@@ -147,6 +148,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
@@ -354,6 +356,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -582,6 +585,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0051-n-queens) |
