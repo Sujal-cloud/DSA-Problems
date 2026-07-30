@@ -97,6 +97,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0890-find-and-replace-pattern](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
+| [0909-snakes-and-ladders](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0909-snakes-and-ladders) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
@@ -359,6 +360,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0037-sudoku-solver](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0085-maximal-rectangle) |
+| [0909-snakes-and-ladders](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0909-snakes-and-ladders) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1975-maximum-matrix-sum) |
@@ -442,6 +444,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0909-snakes-and-ladders](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0909-snakes-and-ladders) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
