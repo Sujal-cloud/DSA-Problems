@@ -67,6 +67,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0051-n-queens](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0090-subsets-ii) |
@@ -256,6 +257,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0049-group-anagrams](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0205-isomorphic-strings) |
@@ -359,6 +361,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | ------- |
 | [0037-sudoku-solver](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0909-snakes-and-ladders](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0909-snakes-and-ladders) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -422,6 +425,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0110-balanced-binary-tree) |
@@ -592,6 +596,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0039-combination-sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0216-combination-sum-iii) |
 ## Number Theory
