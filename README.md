@@ -50,6 +50,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0486-predict-the-winner) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Array
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0268-missing-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0622-design-circular-queue](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0622-design-circular-queue) |
@@ -229,6 +231,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0263-ugly-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0415-add-strings) |
+| [0486-predict-the-winner](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1390-four-divisors) |
@@ -340,6 +343,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0118-pascals-triangle](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0152-maximum-product-subarray) |
+| [0486-predict-the-winner](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0799-champagne-tower) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
@@ -617,4 +621,8 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
