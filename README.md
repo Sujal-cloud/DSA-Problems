@@ -24,6 +24,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0015-3sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0061-rotate-list) |
@@ -257,6 +258,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0013-roman-to-integer](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0067-add-binary) |
@@ -625,4 +627,8 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0486-predict-the-winner) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
