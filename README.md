@@ -235,6 +235,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0050-powx-n](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0263-ugly-number) |
@@ -340,6 +341,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -649,4 +651,8 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
