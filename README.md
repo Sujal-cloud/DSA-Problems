@@ -12,6 +12,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0622-design-circular-queue) |
 | [0725-split-linked-list-in-parts](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0876-middle-of-the-linked-list) |
@@ -52,6 +53,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0486-predict-the-winner) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Array
