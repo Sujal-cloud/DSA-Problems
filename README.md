@@ -14,6 +14,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0141-linked-list-cycle](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0622-design-circular-queue) |
 | [0725-split-linked-list-in-parts](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0876-middle-of-the-linked-list) |
