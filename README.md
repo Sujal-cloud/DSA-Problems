@@ -19,6 +19,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0622-design-circular-queue](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0622-design-circular-queue) |
 | [0725-split-linked-list-in-parts](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Two Pointers
@@ -50,6 +51,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0925-long-pressed-name](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
