@@ -66,6 +66,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0018-4sum) |
@@ -353,6 +354,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -406,6 +408,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0190-reverse-bits) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3719-longest-balanced-subarray-i) |
