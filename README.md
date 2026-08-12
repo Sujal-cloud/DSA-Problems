@@ -144,6 +144,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [2404-most-frequent-even-element](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2404-most-frequent-even-element) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -206,6 +207,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2404-most-frequent-even-element](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2404-most-frequent-even-element) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -454,6 +456,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0992-subarrays-with-k-different-integers](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Tree
 |  |
