@@ -706,4 +706,8 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
