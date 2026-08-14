@@ -10,32 +10,20 @@
  * }
  */
 public class Solution {
-    static ListNode floyd(ListNode head) {
-        ListNode slow = head;
-        ListNode fast = head;
-
-        while(fast != null && fast.next != null) {
-            slow = slow.next;
-            fast = fast.next.next;
-
-            if(slow == fast) {
-                return slow;
-            }
-        }
-
-        return null;
-    }
     public ListNode detectCycle(ListNode head) {
-        ListNode intersection = floyd(head);
-
-        if(intersection == null) {
+        if(head == null || head.next == null) {
             return null;
         }
-        ListNode start = head;
-        while(start != intersection) {
-            start = start.next;
-            intersection = intersection.next;
+        Map<ListNode, Integer> map = new HashMap<>();
+        ListNode temp = head;
+
+        while(temp != null) {
+            if(map.containsKey(temp)) {
+                return temp;
+            }
+            map.put(temp, 1);
+            temp = temp.next;
         }
-        return start;
+        return null;
     }
 }
