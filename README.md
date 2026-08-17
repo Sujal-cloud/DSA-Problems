@@ -136,6 +136,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1528-shuffle-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1528-shuffle-string) |
+| [1539-kth-missing-positive-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1552-magnetic-force-between-two-balls) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -390,6 +391,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1552-magnetic-force-between-two-balls) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
