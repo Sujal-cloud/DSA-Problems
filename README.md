@@ -145,6 +145,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1552-magnetic-force-between-two-balls](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1552-magnetic-force-between-two-balls) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1895-largest-magic-square) |
@@ -402,6 +403,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1552-magnetic-force-between-two-balls) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3453-separate-squares-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3453-separate-squares-i) |
