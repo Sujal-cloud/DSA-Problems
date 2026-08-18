@@ -16,6 +16,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0234-palindrome-linked-list) |
@@ -43,6 +44,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0125-valid-palindrome](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0189-rotate-array) |
@@ -239,6 +241,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0018-4sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0217-contains-duplicate) |
@@ -449,6 +452,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0190-reverse-bits) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3719-longest-balanced-subarray-i) |
@@ -729,6 +733,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
