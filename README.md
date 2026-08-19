@@ -25,6 +25,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0622-design-circular-queue](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0622-design-circular-queue) |
 | [0725-split-linked-list-in-parts](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -143,6 +144,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1472-design-browser-history](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1472-design-browser-history) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1528-shuffle-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1539-kth-missing-positive-number) |
@@ -603,6 +605,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1021-remove-outermost-parentheses](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1472-design-browser-history](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1472-design-browser-history) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -652,6 +655,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 ## Doubly-Linked List
 |  |
 | ------- |
+| [1472-design-browser-history](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1472-design-browser-history) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Ordered Set
@@ -672,6 +676,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0155-min-stack](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0622-design-circular-queue) |
+| [1472-design-browser-history](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1472-design-browser-history) |
 ## Graph Theory
 |  |
 | ------- |
@@ -756,4 +761,8 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1051-height-checker) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
