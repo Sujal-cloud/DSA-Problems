@@ -138,6 +138,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0962-maximum-width-ramp](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1200-minimum-absolute-difference) |
@@ -414,6 +415,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0713-subarray-product-less-than-k](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -506,6 +508,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0643-maximum-average-subarray-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -647,6 +650,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1895-largest-magic-square) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
