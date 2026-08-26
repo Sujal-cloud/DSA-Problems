@@ -239,6 +239,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2404-most-frequent-even-element](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2404-most-frequent-even-element) |
@@ -373,6 +374,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -505,6 +507,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2404-most-frequent-even-element) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -523,6 +526,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
