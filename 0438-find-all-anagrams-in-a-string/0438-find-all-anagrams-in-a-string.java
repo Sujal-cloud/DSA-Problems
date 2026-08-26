@@ -1,7 +1,7 @@
 class Solution {
-    static boolean matches(int[] sCounts, int[] pCounts) {
+    static boolean matches(int[] sArr, int[] pArr) {
         for(int i=0; i<26; i++) {
-            if(sCounts[i] != pCounts[i]) {
+            if(sArr[i] != pArr[i]) {
                 return false;
             }
         }
@@ -9,32 +9,29 @@ class Solution {
     }
     public List<Integer> findAnagrams(String s, String p) {
         List<Integer> ans = new ArrayList<>();
+        int[] pArr = new int[26];
+        int[] sArr = new int[26];
+
         if(s.length() < p.length()) {
             return ans;
         }
-        int[] pCounts = new int[26];
-        int[] sCounts = new int[26];
 
         int k = p.length();
+
         for(int i=0; i<k; i++) {
-            pCounts[p.charAt(i) - 'a']++;
-            sCounts[s.charAt(i) - 'a']++;
+            pArr[p.charAt(i) - 'a']++;
+            sArr[s.charAt(i) - 'a']++;
         }
 
-        //first window
-        if(matches(sCounts, pCounts)) {
+        if(matches(sArr, pArr)) {
             ans.add(0);
         }
-
         for(int i=k; i<s.length(); i++) {
-            // add current char
-            sCounts[s.charAt(i) - 'a']++;
+            sArr[s.charAt(i) - 'a']++;
 
-            //remove leftmost char
-            sCounts[s.charAt(i-k) - 'a']--;
+            sArr[s.charAt(i-k) - 'a']--;
 
-            //check if matches
-            if(matches(sCounts, pCounts)) {
+            if(matches(sArr, pArr)) {
                 ans.add(i-k+1);
             }
         }
