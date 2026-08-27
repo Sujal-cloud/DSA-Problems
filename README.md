@@ -138,6 +138,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0905-sort-array-by-parity](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0909-snakes-and-ladders](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0909-snakes-and-ladders) |
+| [0930-binary-subarrays-with-sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0962-maximum-width-ramp](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -233,6 +234,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0567-permutation-in-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0567-permutation-in-string) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0890-find-and-replace-pattern](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0890-find-and-replace-pattern) |
+| [0930-binary-subarrays-with-sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
@@ -526,6 +528,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0567-permutation-in-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -676,6 +679,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0410-split-array-largest-sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1895-largest-magic-square) |
