@@ -27,6 +27,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0876-middle-of-the-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Two Pointers
@@ -321,6 +322,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2523-closest-prime-numbers-in-range) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
@@ -646,6 +648,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1472-design-browser-history](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1472-design-browser-history) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2104-sum-of-subarray-ranges) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
