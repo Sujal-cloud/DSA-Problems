@@ -9,41 +9,43 @@
  * }
  */
 class Solution {
+    static ListNode findKthNode(ListNode head, int k) {
+        k -= 1;
+        while(head != null && k > 0) {
+            head = head.next;
+            k--;
+        }
+        return head;
+    }
+
     static ListNode reverse(ListNode head) {
         if(head == null || head.next == null) {
             return head;
         }
+
         ListNode curr = head;
         ListNode prev = null;
 
         while(curr != null) {
-            ListNode next = curr.next;
+            ListNode nextNode = curr.next;
 
             curr.next = prev;
             prev = curr;
-            curr = next;
+            curr = nextNode;
         }
         return prev;
     }
-    static ListNode findKthNode(ListNode temp, int k) {
-        k -= 1;
-        while(temp != null && k > 0) {
-            k--;
-            temp = temp.next;
-        }
-        return temp;
-    }
     public ListNode reverseKGroup(ListNode head, int k) {
-        if(head.next == null) {
+        if(head == null || head.next == null) {
             return head;
         }
+
         ListNode temp = head;
         ListNode prevNode = null;
 
         while(temp != null) {
             ListNode kthNode = findKthNode(temp, k);
 
-            //if we done have k elements
             if(kthNode == null) {
                 if(prevNode != null) {
                     prevNode.next = temp;
@@ -51,15 +53,15 @@ class Solution {
                 }
             }
 
-            //now we have kth node
             ListNode nextNode = kthNode.next;
             kthNode.next = null;
+
             reverse(temp);
 
-            //if first k group, move head to kth node
             if(temp == head) {
                 head = kthNode;
-            }else{
+            }
+            else {
                 prevNode.next = kthNode;
             }
             prevNode = temp;
