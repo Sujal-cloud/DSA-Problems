@@ -14,34 +14,36 @@ class Node {
 */
 
 class Solution {
-    static void insertBetween(Node head) {
-
+    static void insertBetweenNodes(Node head) {
         Node temp = head;
         while(temp != null) {
             Node newNode = new Node(temp.val);
             newNode.next = temp.next;
             temp.next = newNode;
+
             temp = temp.next.next;
         }
     }
 
     static void connectRandom(Node head) {
-         Node temp = head;
-
-         while(temp != null) {
-            if(temp.random != null)
+        Node temp = head;
+        while(temp != null) {
+            if(temp.random != null) {
                 temp.next.random = temp.random.next;
+            }
             temp = temp.next.next;
-         }
+        }
     }
 
     static Node connectNext(Node head) {
-        if(head == null) return null;
+        if(head == null) {
+            return head;
+        }
 
-        Node temp = head;
         Node dummy = new Node(-1);
         Node res = dummy;
 
+        Node temp = head;
         while(temp != null) {
             res.next = temp.next;
             temp.next = temp.next.next;
@@ -51,10 +53,10 @@ class Solution {
         return dummy.next;
     }
     public Node copyRandomList(Node head) {
-        if(head == null) return null; 
-
-        insertBetween(head);
+        if(head == null) return null;
+        insertBetweenNodes(head);
         connectRandom(head);
-       return connectNext(head);
+
+        return connectNext(head);
     }
 }
