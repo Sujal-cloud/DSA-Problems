@@ -327,6 +327,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0415-add-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1137-n-th-tribonacci-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1390-four-divisors) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -478,6 +479,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0799-champagne-tower) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
+| [1137-n-th-tribonacci-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -846,4 +848,8 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0020-valid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
