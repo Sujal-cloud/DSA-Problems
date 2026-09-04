@@ -324,6 +324,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0069-sqrtx](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0415-add-strings) |
@@ -428,6 +429,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0844-backspace-string-compare) |
@@ -791,6 +793,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2523-closest-prime-numbers-in-range) |
