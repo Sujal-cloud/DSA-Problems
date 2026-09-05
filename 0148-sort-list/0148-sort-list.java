@@ -9,20 +9,21 @@
  * }
  */
 class Solution {
-    static ListNode getMiddle(ListNode head) {
-        if(head == null || head.next == null) return head;
-
+    ListNode getMid(ListNode head) {
+        if(head == null || head.next == null) {
+            return head;
+        }
         ListNode slow = head;
         ListNode fast = head.next;
 
         while(fast != null && fast.next != null) {
-            fast = fast.next.next;
             slow = slow.next;
+            fast = fast.next.next;
         }
         return slow;
     }
 
-    static ListNode merge(ListNode l1, ListNode l2) {
+    ListNode merge(ListNode l1, ListNode l2) {
         if(l1 == null) return l2;
         if(l2 == null) return l1;
 
@@ -32,18 +33,26 @@ class Solution {
         while(l1 != null && l2 != null) {
             if(l1.val < l2.val) {
                 res.next = l1;
-                res = l1;
                 l1 = l1.next;
+                res = res.next;
             }else{
                 res.next = l2;
-                res = l2;
                 l2 = l2.next;
+                res = res.next;
             }
         }
 
-        if(l1 != null) res.next = l1;
-        if(l2 != null) res.next = l2;
+        if(l1 != null) {
+            res.next = l1;
+            l1 = l1.next;
+            res = res.next;
+        }
 
+        if(l2 != null) {
+            res.next = l2;
+                l2 = l2.next;
+                res = res.next;
+        }
         return dummy.next;
     }
     public ListNode sortList(ListNode head) {
@@ -51,14 +60,15 @@ class Solution {
             return head;
         }
 
-        ListNode middleNode = getMiddle(head);
-        ListNode leftHead = head;
-        ListNode rightHead = middleNode.next;
-        middleNode.next = null;
+        ListNode mid = getMid(head);
+        ListNode right = mid.next;
 
-        leftHead = sortList(leftHead);
-        rightHead = sortList(rightHead);
+        mid.next = null;
+        ListNode left = head;
 
-        return merge(leftHead, rightHead);
+        left = sortList(left);
+        right = sortList(right);
+
+        return merge(left, right);
     }
 }
