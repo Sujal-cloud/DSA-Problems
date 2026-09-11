@@ -85,6 +85,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0234-palindrome-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0486-predict-the-winner) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [3453-separate-squares-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3454-separate-squares-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -269,6 +271,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -650,6 +653,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Stack
