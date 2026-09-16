@@ -339,6 +339,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1137-n-th-tribonacci-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1390-four-divisors) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2427-number-of-common-factors) |
@@ -495,6 +496,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1137-n-th-tribonacci-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3640-trionic-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3640-trionic-array-ii) |
 ## Greedy
@@ -730,6 +732,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0930-binary-subarrays-with-sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1895-largest-magic-square](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1895-largest-magic-square) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3719-longest-balanced-subarray-i) |
@@ -819,6 +822,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting Sort
 |  |
