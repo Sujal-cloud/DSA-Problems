@@ -413,6 +413,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -446,6 +447,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3379-transformed-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3813-vowel-consonant-score](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3813-vowel-consonant-score) |
