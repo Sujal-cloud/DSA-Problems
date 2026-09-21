@@ -208,6 +208,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [3483-unique-3-digit-even-numbers](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3637-trionic-array-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3640-trionic-array-ii) |
@@ -351,6 +352,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3524-find-x-value-of-array-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -500,6 +502,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3640-trionic-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3640-trionic-array-ii) |
 ## Greedy
 |  |
