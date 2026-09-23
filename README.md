@@ -387,6 +387,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0383-ransom-note](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0389-find-the-difference) |
+| [0402-remove-k-digits](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -510,6 +511,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0410-split-array-largest-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0860-lemonade-change](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0860-lemonade-change) |
@@ -682,6 +684,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0225-implement-stack-using-queues](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -705,6 +708,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0042-trapping-rain-water](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
