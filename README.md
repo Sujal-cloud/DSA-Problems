@@ -704,6 +704,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0735-asteroid-collision](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0962-maximum-width-ramp](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0962-maximum-width-ramp) |
@@ -727,6 +728,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0503-next-greater-element-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0962-maximum-width-ramp) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1019-next-greater-node-in-linked-list) |
@@ -802,6 +804,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0225-implement-stack-using-queues](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0622-design-circular-queue) |
+| [0901-online-stock-span](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1472-design-browser-history) |
 ## Graph Theory
 |  |
@@ -893,6 +896,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1472-design-browser-history) |
 ## Timsort
 |  |
