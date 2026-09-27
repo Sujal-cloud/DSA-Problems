@@ -13,7 +13,6 @@ class Solution {
 
                 st.pop(); // remove '('
 
-                // Put reversed characters back individually
                 for (int j = 0; j < temp.length(); j++) {
                     st.push(temp.charAt(j));
                 }
@@ -24,8 +23,6 @@ class Solution {
         }
 
         StringBuilder ans = new StringBuilder();
-
-        // Read stack bottom → top
         for (char c : st) {
             ans.append(c);
         }
