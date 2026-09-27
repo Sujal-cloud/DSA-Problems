@@ -18,6 +18,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0138-copy-list-with-random-pointer](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0206-reverse-linked-list) |
@@ -237,6 +238,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0138-copy-list-with-random-pointer](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0202-happy-number) |
@@ -786,6 +788,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0146-lru-cache) |
 | [1472-design-browser-history](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1472-design-browser-history) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -805,6 +808,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0232-implement-queue-using-stacks) |
