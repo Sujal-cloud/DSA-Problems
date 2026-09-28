@@ -191,6 +191,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2404-most-frequent-even-element](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2404-most-frequent-even-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2560-house-robber-iv](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2560-house-robber-iv) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -498,6 +499,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2560-house-robber-iv](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2560-house-robber-iv) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3453-separate-squares-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3454-separate-squares-ii) |
@@ -522,6 +524,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2560-house-robber-iv](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2560-house-robber-iv) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3640-trionic-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3640-trionic-array-ii) |
@@ -540,6 +543,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1975-maximum-matrix-sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2560-house-robber-iv](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2560-house-robber-iv) |
 ## Matrix
 |  |
 | ------- |
