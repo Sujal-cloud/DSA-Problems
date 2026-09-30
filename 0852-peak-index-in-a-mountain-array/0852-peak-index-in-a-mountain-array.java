@@ -1,19 +1,17 @@
 class Solution {
-    public int peakIndexInMountainArray(int[] arr) {
-        int n = arr.length;
-        int s = 0;
-        int e = n - 1;
-        int ans = -1;
-
-        while(s <= e) {
-            int mid = s + (e-s)/2;
-            if(arr[mid] >= arr[mid + 1]) {
-                ans = mid;
-                e = mid - 1;
-            }else{
-                s = mid + 1;
-            }
+    static int solve(int[] arr, int s, int e) {
+        if(s >= e) {
+            return s;
         }
-        return ans;
+        int mid = s + (e-s)/2;
+
+        if(arr[mid] > arr[mid + 1]) {
+            return solve(arr, s, mid);
+        }else{
+            return solve(arr, mid + 1, e);
+        }
+    }
+    public int peakIndexInMountainArray(int[] arr) {
+        return solve(arr, 0, arr.length - 1);
     }
 }
