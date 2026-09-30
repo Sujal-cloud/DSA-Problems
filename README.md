@@ -137,6 +137,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0622-design-circular-queue](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0739-daily-temperatures) |
@@ -465,6 +466,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0067-add-binary](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0844-backspace-string-compare) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -718,6 +720,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0496-next-greater-element-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0682-baseball-game](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0844-backspace-string-compare) |
