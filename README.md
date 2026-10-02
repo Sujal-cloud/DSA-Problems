@@ -24,6 +24,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0206-reverse-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0622-design-circular-queue) |
 | [0725-split-linked-list-in-parts](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0876-middle-of-the-linked-list) |
@@ -257,6 +258,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0389-find-the-difference](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -807,6 +809,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0460-lfu-cache) |
 | [1472-design-browser-history](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1472-design-browser-history) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -830,6 +833,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0155-min-stack](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1472-design-browser-history) |
