@@ -417,6 +417,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0567-permutation-in-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0567-permutation-in-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0844-backspace-string-compare](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0856-score-of-parentheses) |
 | [0890-find-and-replace-pattern](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0890-find-and-replace-pattern) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0925-long-pressed-name) |
@@ -733,6 +734,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0735-asteroid-collision](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -947,6 +949,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0020-valid-parentheses](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
