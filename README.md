@@ -88,6 +88,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0486-predict-the-winner](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
 |  |
@@ -370,6 +371,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3524-find-x-value-of-array-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3524-find-x-value-of-array-i) |
@@ -465,6 +467,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2351-first-letter-to-appear-twice) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -480,6 +483,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3379-transformed-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3379-transformed-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
