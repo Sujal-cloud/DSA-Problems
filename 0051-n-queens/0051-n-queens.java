@@ -1,14 +1,9 @@
 class Solution {
-    static boolean isSafe(int rowIdx, int colIdx, int n, char[][] board) {
-        //we need to handle
-        //horizontal -> same row different col
-        //left upper diagonal -> [row-1][col-1]
-        //left lower diagonal -> [row+1][col-1]
-
+    private boolean isSafe(char[][] board, int n, int rowIdx, int colIdx) {
         int row = rowIdx;
         int col = colIdx;
 
-        //1 -> horizontal
+        //1 same row
         while(col >= 0) {
             if(board[row][col] == 'Q') {
                 return false;
@@ -16,9 +11,9 @@ class Solution {
             col--;
         }
 
-        //2 -> left upper diagonal
         row = rowIdx;
         col = colIdx;
+        //2 left upper diagonal
         while(row >= 0 && col >= 0) {
             if(board[row][col] == 'Q') {
                 return false;
@@ -27,9 +22,9 @@ class Solution {
             col--;
         }
 
-        //3 -> left lower
         row = rowIdx;
         col = colIdx;
+        //3 left lower diagonal
         while(row < n && col >= 0) {
             if(board[row][col] == 'Q') {
                 return false;
@@ -37,13 +32,13 @@ class Solution {
             row++;
             col--;
         }
+
         return true;
     }
-    static void solve(char[][] board, int n, int colIdx, List<List<String>> ans) {
-        //base case -> if reached last colIdx, we found a valid pair
+    private void solve(char[][] board, int n, int colIdx, List<List<String>> ans) {
+        //base case -> if we reach visit all column, we have valid ans
         if(colIdx >= n) {
             List<String> temp = new ArrayList<>();
-
             for(int i=0; i<n; i++) {
                 temp.add(new String(board[i]));
             }
@@ -51,15 +46,14 @@ class Solution {
             return;
         }
 
-        //we solve one case by putting queen in each column from leftmost row to rightmost row and then recursion handles rest.
-        for(int rowIdx=0; rowIdx <n; rowIdx++) {
-            if(isSafe(rowIdx, colIdx, n, board)) {
+        //now for every row, we check all columns, from left to right
+        for(int rowIdx=0; rowIdx<n; rowIdx++) {
+            if(isSafe(board, n, rowIdx, colIdx)) {
                 board[rowIdx][colIdx] = 'Q';
 
-                //recursive call for next col
-                solve(board, n, colIdx + 1, ans);
+                solve(board, n, colIdx+1, ans);
 
-                //undo ->backtracking for moving to next exploration baord needs to be reset
+                //backtrack
                 board[rowIdx][colIdx] = '.';
             }
         }
