@@ -974,4 +974,8 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
