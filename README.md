@@ -448,6 +448,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3713-longest-balanced-substring-i) |
@@ -467,6 +468,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2351-first-letter-to-appear-twice) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -887,6 +889,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0131-palindrome-partitioning](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0216-combination-sum-iii) |
 | [1096-brace-expansion-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1096-brace-expansion-ii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Number Theory
 |  |
 | ------- |
