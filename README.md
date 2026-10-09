@@ -435,6 +435,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1528-shuffle-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -561,6 +562,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0860-lemonade-change](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -756,6 +758,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1472-design-browser-history](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -965,6 +968,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1021-remove-outermost-parentheses](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Memoization
 |  |
