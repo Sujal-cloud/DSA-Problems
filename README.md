@@ -175,6 +175,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1512-number-of-good-pairs](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1552-magnetic-force-between-two-balls) |
@@ -274,6 +275,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0992-subarrays-with-k-different-integers](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1096-brace-expansion-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1512-number-of-good-pairs](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -364,6 +366,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1266-minimum-time-visiting-all-points](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1390-four-divisors) |
+| [1512-number-of-good-pairs](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1512-number-of-good-pairs) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -607,6 +610,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0451-sort-characters-by-frequency](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1512-number-of-good-pairs](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
