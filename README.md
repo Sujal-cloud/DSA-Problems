@@ -362,6 +362,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0836-rectangle-overlap](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1266-minimum-time-visiting-all-points) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1390-four-divisors) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -468,6 +469,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0268-missing-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0389-find-the-difference) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2351-first-letter-to-appear-twice) |
