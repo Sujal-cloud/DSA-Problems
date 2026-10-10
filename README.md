@@ -194,6 +194,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2404-most-frequent-even-element](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2404-most-frequent-even-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2560-house-robber-iv](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2560-house-robber-iv) |
@@ -332,6 +333,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3731-find-missing-elements) |
@@ -519,6 +521,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2560-house-robber-iv](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2560-house-robber-iv) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3453-separate-squares-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3453-separate-squares-i) |
@@ -567,6 +570,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1975-maximum-matrix-sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2560-house-robber-iv](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2560-house-robber-iv) |
 ## Matrix
 |  |
@@ -819,6 +823,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
