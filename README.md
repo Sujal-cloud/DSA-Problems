@@ -410,6 +410,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0058-length-of-last-word](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0131-palindrome-partitioning) |
@@ -542,6 +543,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0022-generate-parentheses](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0042-trapping-rain-water) |
+| [0072-edit-distance](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
