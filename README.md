@@ -1023,6 +1023,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0052-n-queens-ii) |
 ## Binary Indexed Tree
@@ -1030,4 +1031,8 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
