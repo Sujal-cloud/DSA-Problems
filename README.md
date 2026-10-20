@@ -374,6 +374,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0258-add-digits](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0282-expression-add-operators) |
 | [0415-add-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0509-fibonacci-number) |
@@ -433,6 +434,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0179-largest-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0282-expression-add-operators) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -937,6 +939,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0090-subsets-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0282-expression-add-operators) |
 | [1096-brace-expansion-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Number Theory
