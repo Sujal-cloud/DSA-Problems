@@ -488,6 +488,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3813-vowel-consonant-score](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3813-vowel-consonant-score) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
