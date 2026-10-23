@@ -62,6 +62,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0344-reverse-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0541-reverse-string-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0844-backspace-string-compare) |
@@ -451,6 +452,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0482-license-key-formatting](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0482-license-key-formatting) |
+| [0541-reverse-string-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0567-permutation-in-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0844-backspace-string-compare](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0844-backspace-string-compare) |
