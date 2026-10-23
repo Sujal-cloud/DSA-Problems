@@ -238,6 +238,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3637-trionic-array-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3640-trionic-array-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -514,6 +515,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Simulation
 |  |
 | ------- |
