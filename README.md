@@ -395,6 +395,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2409-count-days-spent-together) |
 | [2427-number-of-common-factors](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2427-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2523-closest-prime-numbers-in-range) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -483,6 +484,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2351-first-letter-to-appear-twice) |
+| [2409-count-days-spent-together](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
