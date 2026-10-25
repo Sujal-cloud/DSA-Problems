@@ -168,6 +168,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1051-height-checker](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1095-find-in-mountain-array) |
 | [1200-minimum-absolute-difference](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1200-minimum-absolute-difference) |
+| [1254-number-of-closed-islands](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1254-number-of-closed-islands) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -630,6 +631,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0835-image-overlap](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0835-image-overlap) |
 | [0909-snakes-and-ladders](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1254-number-of-closed-islands) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1975-maximum-matrix-sum) |
@@ -726,6 +728,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1254-number-of-closed-islands) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -742,6 +745,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0994-rotting-oranges](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1254-number-of-closed-islands) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
@@ -1066,6 +1070,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
