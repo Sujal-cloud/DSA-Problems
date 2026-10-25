@@ -165,6 +165,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1004-max-consecutive-ones-iii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1020-number-of-enclaves](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1020-number-of-enclaves) |
 | [1051-height-checker](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1095-find-in-mountain-array) |
 | [1200-minimum-absolute-difference](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1200-minimum-absolute-difference) |
@@ -631,6 +632,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0835-image-overlap](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0835-image-overlap) |
 | [0909-snakes-and-ladders](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1254-number-of-closed-islands) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1895-largest-magic-square) |
@@ -727,6 +729,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0437-path-sum-iii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0437-path-sum-iii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1254-number-of-closed-islands) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -743,6 +746,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0909-snakes-and-ladders](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0909-snakes-and-ladders) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1020-number-of-enclaves) |
 | [1096-brace-expansion-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1254-number-of-closed-islands) |
@@ -1070,6 +1074,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 ## Union-Find
 |  |
 | ------- |
+| [1020-number-of-enclaves](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
