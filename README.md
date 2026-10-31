@@ -242,6 +242,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [3637-trionic-array-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3640-trionic-array-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3665-twisted-mirror-path-count) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -605,6 +606,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3640-trionic-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3640-trionic-array-ii) |
+| [3665-twisted-mirror-path-count](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
@@ -644,6 +646,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1975-maximum-matrix-sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1975-maximum-matrix-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
 |  |
