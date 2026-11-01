@@ -108,6 +108,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0048-rotate-image](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0079-word-search) |
@@ -583,6 +584,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0022-generate-parentheses](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0118-pascals-triangle) |
@@ -653,6 +655,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0190-reverse-bits) |
