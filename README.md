@@ -135,6 +135,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0268-missing-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0410-split-array-largest-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0496-next-greater-element-i) |
@@ -388,6 +389,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0268-missing-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0282-expression-add-operators) |
 | [0415-add-strings](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0415-add-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
