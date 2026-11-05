@@ -72,6 +72,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0925-long-pressed-name](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0925-long-pressed-name) |
 | [0962-maximum-width-ramp](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -178,6 +179,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1390-four-divisors](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1472-design-browser-history](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1472-design-browser-history) |
@@ -358,6 +360,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1096-brace-expansion-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1552-magnetic-force-between-two-balls) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -570,6 +573,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1095-find-in-mountain-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1552-magnetic-force-between-two-balls) |
