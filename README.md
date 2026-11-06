@@ -730,6 +730,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0199-binary-tree-right-side-view](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -751,6 +752,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0199-binary-tree-right-side-view](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1020-number-of-enclaves) |
@@ -794,6 +796,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [0199-binary-tree-right-side-view](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1117,4 +1120,8 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
