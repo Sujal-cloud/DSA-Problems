@@ -1124,4 +1124,8 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Sujal-cloud/DSA-Problems/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
