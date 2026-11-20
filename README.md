@@ -228,6 +228,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -376,6 +377,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -625,6 +627,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2560-house-robber-iv](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2560-house-robber-iv) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3524-find-x-value-of-array-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3640-trionic-array-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3640-trionic-array-ii) |
 | [3665-twisted-mirror-path-count](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3665-twisted-mirror-path-count) |
