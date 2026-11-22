@@ -509,6 +509,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sujal-cloud/DSA-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2409-count-days-spent-together](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
