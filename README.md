@@ -240,6 +240,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [3331-find-subtree-sizes-after-changes](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3379-transformed-array](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3379-transformed-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3453-separate-squares-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3454-separate-squares-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -431,6 +432,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -737,6 +739,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Tree
 |  |
 | ------- |
@@ -841,6 +844,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -1036,6 +1040,7 @@ A collection of LeetCode(may include other platforms as well) questions to ace t
 | [2523-closest-prime-numbers-in-range](https://github.com/Sujal-cloud/DSA-Problems/tree/master/2523-closest-prime-numbers-in-range) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3312-sorted-gcd-pair-queries) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sujal-cloud/DSA-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
